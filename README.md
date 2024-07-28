@@ -14,10 +14,6 @@ I'm a data scientist interested in open-source projects and AI/ML. I enjoy worki
 ## 🌱 Currently Learning:
 - Advanced Python, Kubernetes, Golang, ML/AI, Microservices
 
-## ✨ Fun Fact:
-- I love hiking and exploring new trails in my free time.
-
-Looking forward to connecting and collaborating!
 
 
 <!--
