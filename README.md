@@ -3,7 +3,7 @@
 I'm a data scientist interested in open-source projects and AI/ML. I enjoy working on projects related to ML, and I'm always eager to learn and collaborate on exciting new challenges.
 
 ## Skills and Technologies:
-- Programming Languages: Python, Java, JavaScript, SQL
+- Programming Languages: Python, C/C++, Java, JavaScript, SQL
 - Frameworks and Libraries: React, ML(Keras, Scikit-learn, PyTorch), NodeJS
 - Tools: Git, Docker, Kubernetes
 - Other: Machine Learning, DevOps
